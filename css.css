@@ -1,11 +1,13 @@
-input[type="text"] {
-    width: 200px;
+/*une fois survolé*/
+/* a:hover{
+    color: green;
+} */
+
+a:focus{
+    color: green;
 }
 
-input[type="email"] {
-    width: 300px;
-}
-
-/* input[type="text"] , input[type="email"]{
-    width: 200;
+/*si un lien est visité */
+/* a:visited{
+    color: red;
 } */
