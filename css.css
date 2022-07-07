@@ -1,0 +1,11 @@
+input[type="text"] {
+    width: 200px;
+}
+
+input[type="email"] {
+    width: 300px;
+}
+
+/* input[type="text"] , input[type="email"]{
+    width: 200;
+} */
